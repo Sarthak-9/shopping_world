@@ -24,8 +24,8 @@ dependencies:
   flutter:
     sdk: flutter
   provider: ^4.3.2+3
-  intl: ^0.17.0  #aditya's commit
-  http: ^0.12.2 #aditya's commit
+  intl: ^0.17.1 #aditya's commit
+  http: ^0.12.2 #aditya's commit 
    
   shared_preferences: ^2.0.8.12+4
 
